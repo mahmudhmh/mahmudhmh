@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
 - 🔭 I’m currently working on [Marvel App](https://github.com/omar3anan/MARVEL)
@@ -38,5 +38,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudhmh&show_icons=true&theme=dark&locale=en&layout=compact" alt="mahmudhmh" /></p>
 <br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudhmh&theme=dark" alt="mahmudhmh" /></p>
