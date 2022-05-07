@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Marvel App](https://github.com/omar3anan/MARVEL)
 
-- 🌱 I’m currently learning Machine Learning and continuing the Backend Track **Laravel**
+- 🌱 Right Now i'm learning Machine Learning and continuing the Backend Track **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmudhmh](https://github.com/mahmudhmh)
 
