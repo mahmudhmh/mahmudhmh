@@ -14,11 +14,11 @@
 
 - 🌱 Right Now i'm learning Machine Learning and continuing the Backend Track **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahmudhmh](https://github.com/mahmudhmh)
+- 👨‍💻 All of my projects are available at [Github Repository](https://github.com/mahmudhmh)
 
 - 📫 How to reach me **Mahmudhmh.business@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tU1bfL7Ny8WJOiRA9PwPnsGS_RuL0Dcl/view?usp=sharing](https://drive.google.com/file/d/1tU1bfL7Ny8WJOiRA9PwPnsGS_RuL0Dcl/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ZbapCyZrINDBodzEeWl1RDSItZgGqPzu/view?usp=sharing)
 
 - ⚡ Fun fact **All software developers can write code**
 
