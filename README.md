@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on [Darling Dounts A Microservices WebApp](https://github.com/mahmudhmh/DarlingDounts)
 
-- 🌱 Right Now i'm learning Machine Learning and continuing the Backend Track **Laravel**
+- 🌱 Right Now i'm learning Machine Learning and Ruby on Rails
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/mahmudhmh?tab=repositories)
 
 - 📫 How to reach me **Mahmudhmh.business@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ZbapCyZrINDBodzEeWl1RDSItZgGqPzu/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/12DdPly1e8EsipA0KJsf4tG-_rX5W36I5/view?usp=sharing)
 
 - 🖥 Personal Portfolio [My Portfolio](https://mahmoudhussien.netlify.app/)
 
