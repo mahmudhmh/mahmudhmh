@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/mahmudhmh?tab=repositories)
 
-- 📫 How to reach me **Mahmudhmh.business@gmail.com**
+- 📫 You can reach me at **Mahmudhmh.business@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/12DdPly1e8EsipA0KJsf4tG-_rX5W36I5/view?usp=sharing)
 
