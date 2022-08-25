@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
+<img align='center' src='https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493bsdezi0wzlkit9pj6raj0kctvk4z3jhq52jr3zp10&rid=200w.gif&ct=g' width='150'>
 
 - 🔭 I’m currently working on [Darling Dounts A Microservices WebApp](https://github.com/mahmudhmh/DarlingDounts)
 
