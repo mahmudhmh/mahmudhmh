@@ -14,7 +14,7 @@
 
 - 🌱 Right Now i'm learning Machine Learning and Ruby on Rails
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/mahmudhmh?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahmudhmh?tab=repositories)
 
 - 📫 You can reach me at **Mahmudhmh.business@gmail.com**
 
