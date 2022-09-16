@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Application Development For Business @NTG Clarity Using NTGapps](https://ntgapps.com/)
 
-- 🌱 Right Now i'm learning Machine Learning and Ruby on Rails
+- 🌱 Right Now i'm learning Machine Learning, Data Science Using Python/R and Backend Development
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahmudhmh?tab=repositories)
 
