@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working on [Darling Dounts A Microservices WebApp](https://github.com/mahmudhmh/DarlingDounts)
+- 🔭 I’m currently working on [Application Development For Business @NTG Clarity Using NTGapps](https://ntgapps.com/)
 
 - 🌱 Right Now i'm learning Machine Learning and Ruby on Rails
 
