@@ -42,8 +42,6 @@
 </div>
 </p>
 
-</br>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 &nbsp;&nbsp;&nbsp;
 
