@@ -3,7 +3,7 @@
 <samp>
     Hello there! I'm <b>Mahmoud Hussien Mahmoud</b>.
     <br>I am a Junior Software Engineer.<br>
-    I'm enthusiast about Machine Learning, Data Sience and Backend development. 
+    I'm enthusiast about Machine Learning and Data Sience. 
 </samp>
 
 </br>
