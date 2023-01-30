@@ -1,17 +1,32 @@
 <p align="center">
-  <br>
-<samp>
-    Hello there! I'm <b>Mahmoud Hussien Mahmoud</b>.
-    <br>I am a Junior Software Engineer.<br>
-    I'm enthusiast about Machine Learning and Data Sience. 
-</samp>
-
-</br>
-
 <div style="text-align:center">
 <p align="center">
 <img style="user-select: none;" src="https://github.com/mahmudhmh/mahmudhmh/blob/main/AnyKey.gif" alt="GIF"></a>
 
+</br>
+
+```ruby
+mahmudhmh = Hash.new
+mahmudhmh[:Hello] ='Hello there! I am' Mahmoud Hussien Mahmoud.
+mahmudhmh[:experience] =  Junior Software Engineer.
+mahmudhmh[:enthusiastic] = Machine Learning and Data Science enthusiast.
+mahmudhmh[:languages] = [JavaScript, C++, Shell Script, Java]
+mahmudhmh[:freamwork] = [ReactJS, NodeJS, ExpressJS]
+mahmudhmh[:Databases] = [Mysql, MongoDB]
+mahmudhmh[:Editors] = [VsCode, PyCharm, CLion]
+mahmudhmh[:UI_tools] = [AdobeXD, Figma]
+mahmudhmh[:Other_tools] = [Postman, AWS, Docker, K8s, Circle CI]
+
+[jQuery, ReactJS, Ajax, XML, Json, Yaml, Html5, Css3, Less css, Sass, BootStrap].each do |tool|
+  mahmudhmh[:UI_tools] << tool unless mahmudhmh[:UI_tools].include?(tool)
+end
+
+[Photoshop, Git, Agile, CI / CD, Linux OS, Nginx, Docker, Automation test].each do |other|
+  mahmudhmh[:Other_tools] << other unless mahmudhmh[:Other_tools].include?(other)
+end
+
+puts mahmudhmh
+```
 </br>
 
 - 🔭 I’m currently working on [Application Development For Business @NTG Clarity Using NTGapps](https://ntgapps.com/)
@@ -25,7 +40,6 @@
 - 🖥 Personal Portfolio [My Portfolio](https://mahmudhmh.notyetproject.engineer)
 
 - ⚡ Fun fact **All software developers can write code**
-
 </br>
 
 <h3> 📬 &nbsp;Connect</h3>
