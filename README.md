@@ -35,7 +35,7 @@ puts mahmudhmh
 
 - 📫 You can reach me at **Mahmudhmh.business@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/12DdPly1e8EsipA0KJsf4tG-_rX5W36I5/view?usp=sharing)
+- 📄 Know about my experiences [My CV]([https://drive.google.com/file/d/12DdPly1e8EsipA0KJsf4tG-_rX5W36I5/view?usp=sharing](https://drive.google.com/file/d/1fQESI1D7oUSCPTB_9xQfFSrKOGhmgoc8/view?usp=share_link))
 
 - 🖥 Personal Portfolio [My Portfolio](https://mahmudhmh.notyetproject.engineer)
 
