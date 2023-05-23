@@ -8,7 +8,7 @@
 ```ruby
 mahmudhmh = Hash.new
 mahmudhmh[:Hello] ='Hello there! I am' Mahmoud Hussien Mahmoud.
-mahmudhmh[:experience] =  Junior Software Engineer.
+mahmudhmh[:experience] =  Fresh Graduate Software Engineer.
 mahmudhmh[:enthusiastic] = DevOps and Backend Development.
 mahmudhmh[:languages] = [JavaScript, C++, Shell Script, Java]
 mahmudhmh[:freamwork] = [ReactJS, NodeJS, ExpressJS]
