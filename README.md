@@ -29,13 +29,13 @@ puts mahmudhmh
 ```
 </br>
 
-- 🔭 I’m currently working on [Application Development For Business @NTG Clarity Using NTGapps](https://ntgapps.com/)
+- 🔭 I’m currently working on [Graduation Project !YET](https://github.com/omar3anan/notYet)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahmudhmh?tab=repositories)
 
 - 📫 You can reach me at **Mahmudhmh.business@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1fQESI1D7oUSCPTB_9xQfFSrKOGhmgoc8/view?usp=share_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ZbapCyZrINDBodzEeWl1RDSItZgGqPzu/view?usp=share_link)
 
 - 🖥 Personal Portfolio [My Portfolio](https://mahmudhmh.notyetproject.engineer)
 
