@@ -29,15 +29,15 @@ puts mahmudhmh
 ```
 </br>
 
-- 🔭 I’m currently working on [Graduation Project !YET](https://github.com/omar3anan/notYet)
+- 🔭 I’m currently working on [Graduation Project !YET](https://github.com/mahmudhmh/notYet-Platform)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/mahmudhmh?tab=repositories)
 
 - 📫 You can reach me at **Mahmudhmh.business@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1ZbapCyZrINDBodzEeWl1RDSItZgGqPzu/view?usp=share_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1D3ahZuXqtkj4oBaJvQYaqfgr9xeU6vkd/view?usp=sharing)
 
-- 🖥 Personal Portfolio [My Portfolio](https://mahmudhmh.notyetproject.engineer)
+- 🖥 Personal Portfolio [My Portfolio](http://notyetproject.me/portfolio/)
 
 - ⚡ Fun fact **All software developers can write code**
 </br>
