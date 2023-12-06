@@ -37,8 +37,6 @@ puts mahmudhmh
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1D3ahZuXqtkj4oBaJvQYaqfgr9xeU6vkd/view?usp=sharing)
 
-- 🖥 Personal Portfolio [My Portfolio](http://notyetproject.me/portfolio/)
-
 - ⚡ Fun fact **All software developers can write code**
 </br>
 
