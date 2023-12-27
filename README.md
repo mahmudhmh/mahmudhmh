@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently Enrolled in ITI 9 Months Diploma **Open source development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahmudhmh?](https://github.com/mahmudhmh?)
+- 👨‍💻 All of my projects are available [Github Repositories](https://github.com/mahmudhmh?)
 
 - 💬 Fun Fact **All software developers can write code**
 
