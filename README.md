@@ -5,26 +5,30 @@
 
 </br>
 
-<h1 align="center">Hi 👋, I'm Mahmoud Hussien Mahmoud</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Hussien Mahmoud <br/> <span>A Passionate Software Engineer</span>  </h1>
+
+---
+
+<h3 align="left">Overview:</h3>
+<p align="left">Junior Software Engineer with a Bachelor's degree in Computer Science from Alexandria University and specialized training in open-source technologies from the Information Technology Institute (ITI). Practical experience includes internships at Motajer and NTG Clarity, with projects like "notYet Platform," "3DShirty," and "Lara-post-blog," showcasing expertise in frontend and backend development using modern technologies.</p>
+
+---
+
+<h3 align="left">Objective:</h3>
+<p align="left">Highly motivated Junior Software Engineer with a solid foundation in computer science and a keen interest in open-source technologies. Seeking to leverage expertise in MERN stack development, problem-solving skills, and proficiency in various programming languages to contribute effectively to innovative software projects. Eager to apply knowledge gained through internships and academic projects to drive technological advancements and deliver high-quality solutions in a dynamic work environment.</p>
+
+---
+
+<h3 align="left">What I'm doing and keen on right now:</h3> 
 
 - 🔭 I’m currently working on a SaaS idea to hit the MENA Region. 
-
 - 😇 For me, open source is a moral thing.
 - 🪢 My contributions: [nodejs](https://github.com/nodejs/nodejs.org/pull/6426) , [github-edu](https://github.com/education/codespaces-project-template-js/pull/111) ,[freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/54493) and to some more pr's.
 - 👨‍💻 All of my projects are available [Github Repositories](https://github.com/mahmudhmh?tab=repositories)
-
 - 💬 Fun Fact **All software developers can write code**
-
 - 📫 How to reach me **Mahmudhmh.business@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmudhmh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudhmh" height="30" width="40" /></a>
-<a href="https://fb.com/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudhmh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmudhmh" height="30" width="40" /></a>
-</p>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -96,4 +100,14 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
     </a>
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmudhmh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudhmh" height="30" width="40" /></a>
+<a href="https://fb.com/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudhmh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahmudhmh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmudhmh" height="30" width="40" /></a>
 </p>
