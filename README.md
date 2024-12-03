@@ -8,7 +8,7 @@
 <h3 align="center">🚀 What I'm doing and passionate about:</h3> 
 
 <ul>
-    <li>🔭 Currently working as an <b>Software Development Engineer</b> at <b>Noon e-commerce</b>.</li>
+    <li>🔭 Currently working as an <b>Software Development Engineer</b> at <b><a href="https://www.noon.com">Noon</a></b>.</li>
     <li>😇 I believe in the value of <b>open source</b> and contributing to the community.</li>
     <li>🪢 My contributions: <a href="https://github.com/nodejs/nodejs.org/pull/6426">Node.js</a>, <a href="https://github.com/education/codespaces-project-template-js/pull/111">GitHub Education</a>, <a href="https://github.com/freeCodeCamp/freeCodeCamp/pull/54493">FreeCodeCamp</a>, and more!</li>
     <li>👨‍💻 Check out my work: <a href="https://github.com/mahmudhmh?tab=repositories">GitHub Repositories</a></li>
